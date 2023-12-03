@@ -1,7 +1,6 @@
 import operator
 import re
 from functools import reduce
-from itertools import product
 
 from aoc_2023.helpers import file_reader
 
