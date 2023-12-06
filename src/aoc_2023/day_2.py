@@ -1,4 +1,4 @@
-from aoc_2023.helpers import file_reader
+from src.aoc_2023.helpers import file_reader
 
 RED = "red"
 GREEN = "green"

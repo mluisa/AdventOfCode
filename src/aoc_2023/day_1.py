@@ -1,7 +1,5 @@
-import re
-from textwrap import wrap
+from src.aoc_2023.helpers import file_reader
 
-from aoc_2023.helpers import file_reader
 
 NUMBER_EQUIVALENCES = {
     "one": 1,
