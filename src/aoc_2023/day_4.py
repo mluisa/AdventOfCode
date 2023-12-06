@@ -1,6 +1,4 @@
-from math import factorial
-
-from aoc_2023.helpers import file_reader
+from src.aoc_2023.helpers import file_reader
 
 
 def _part_1(filename: str) -> int:

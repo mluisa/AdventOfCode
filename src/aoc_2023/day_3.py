@@ -2,7 +2,8 @@ import operator
 import re
 from functools import reduce
 
-from aoc_2023.helpers import file_reader
+from src.aoc_2023.helpers import file_reader
+
 
 INVALID_SYMBOL = "."
 VALID_SYMBOL = "*"
