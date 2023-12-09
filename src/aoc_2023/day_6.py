@@ -44,9 +44,9 @@ def main():
     print('Advent of Code 2023 : Day 6')
     print('===========================')
     print('Part 1')
-    print(f"Total cards points: {_part_1(file_reader.get_lines('day_6.txt'))}")
+    print(f"Result: {_part_1(file_reader.get_lines('day_6.txt'))}")
     print('Part 2')
-    print(f"Total cards points: {_part_2(file_reader.get_lines('day_6.txt'))}")
+    print(f"Result: {_part_2(file_reader.get_lines('day_6.txt'))}")
 
 
 if __name__ == "__main__":
