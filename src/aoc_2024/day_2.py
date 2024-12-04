@@ -66,7 +66,7 @@ def main():
     print('Part 1')
     print(f"Total of safe reports: {day_2.part_1()}")
     print('Part 2')
-    print(f"Sum of calibration numbers: {day_2.part_2()}")
+    print(f"Total of safe reports: {day_2.part_2()}")
 
 
 if __name__ == "__main__":
